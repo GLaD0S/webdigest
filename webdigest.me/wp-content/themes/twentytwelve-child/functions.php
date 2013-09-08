@@ -12,4 +12,6 @@ register_nav_menus( array(
 	'not_logged_in' => 'Not Logged In Menu'
 ) );
 
+//this is a new comment
+
 ?>
