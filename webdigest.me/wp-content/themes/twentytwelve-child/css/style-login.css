@@ -1,0 +1,32 @@
+
+
+body.login div#login p#nav a 
+{
+	text-shadow: none !important;
+	font-weight: bold;
+}
+
+body.login div#login p#backtoblog a 
+{
+	text-shadow: none !important;
+	font-weight: bold;
+}
+
+body.login div#login p#nav
+{
+	text-shadow: none !important;
+}
+
+.login h1 a
+{
+	background-image: none;
+	text-indent: 0;
+	color: black;
+	font-weight: bold;
+	font-size: 150%;
+	text-decoration: none;
+	text-align: center;
+	position: relative;
+	top: 40px;
+	overflow: visible;
+}

@@ -1,0 +1,260 @@
+/*
+Theme Name:     Twenty Twelve Child
+Theme URI:      http://www.pearlproduction.com
+Description:    Child theme for the Twenty Twelve theme
+Author:         David Broadlick
+Author URI:     http://www.pearlproduction.com/wordpress/
+Template:       twentytwelve            
+Version:        1.1
+*/
+@import url("../twentytwelve/style.css");
+
+/*Theme CSS-------------------------------------------------------------------------------*/
+
+body .site
+{
+	margin-top: 0;
+}
+
+#masthead.site-header hgroup
+{
+	/*background-color: #003366;*/
+	/*padding: 0px 0px 13px 0px;*/
+	width: 80rem;
+	left: -3rem;
+	position: relative;
+}
+
+#masthead.site-header img
+{
+	background-color: #003366;
+	box-shadow: 0 0 0 0;
+	left: 1.4rem;
+	position: relative;
+}
+
+#masthead.site-header
+{
+	padding-top: 0;
+}
+
+#site-navigation.main-navigation
+{
+	margin-top: 0;
+}
+
+/*Theme CSS-------------------------------------------------------------------------------*/
+
+/*LearnDash Quiz CSS----------------------------------------------------------------------*/
+.learndash .quizArea .button.checkAnswer
+{
+	margin-top: 2.5rem;
+}
+/*LearnDash Quiz CSS----------------------------------------------------------------------*/
+
+/*Login Page------------------------------------------------------------------------------*/
+.login #nav a 
+{
+	text-shadow: none;
+}
+
+.login
+{
+	position: relative;
+} 
+
+/*Login Page------------------------------------------------------------------------------*/
+
+/*Link Blog--------------------------------------------------------------------------------*/
+.account-options
+{
+	
+}
+
+#logo-as-text
+{
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+#logo-text
+{
+
+}
+
+#logo-text p
+{
+	font-weight: bold;
+	font-size: 250%;
+	margin-bottom: 10px;	
+}
+
+#logo-under-text
+{
+	margin-bottom: 10px;
+}
+
+#frontpage-welcome
+{
+	position: relative;
+	margin: 0 auto;
+}
+
+#frontpage-welcome p
+{
+	width: 70%;
+	position: relative;
+	margin: 0 auto;
+	font-size: 110%;
+	line-height: 1.5em;
+}
+
+#link-blog .link-post .link a
+{
+	font-weight: bold;
+	color: #003366;
+}
+
+#link-blog .link-post .link
+{
+	margin-bottom: 5px;
+}
+
+#link-blog .link-post .timestamp
+{
+
+}
+
+#link-blog .link-post
+{
+	margin-bottom: 20px;
+}
+
+#link-posts
+{
+	text-align: center;
+}
+
+#linkform-section
+{
+}
+
+#linkform-title
+{
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.linkform-element-title
+{
+	font-weight: bold;
+	font-size: 90%;
+	margin-bottom: 10px;
+}
+
+.linkform-input
+{
+
+}
+
+.linkform-response
+{
+	margin-bottom: 10px;
+}
+
+#linkform-submit
+{
+	margin-bottom: 5px;
+	background-color: #e6e6e6;
+	width: 48px;
+	border-radius: 5px 5px 5px 5px;
+	padding: 3px;
+	cursor: pointer;
+	text-align: center;
+}
+
+#user-title
+{
+	font-size: 170%;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+#link-follow
+{
+	cursor: pointer;
+}
+
+@media screen and (min-width: 600px) {
+
+#left-options
+{
+	margin: 0 auto;
+    position: relative;
+    width: 20%;
+}
+
+#link-blog
+{
+	position: relative;
+	width: 100%;	
+}
+
+}
+
+@media screen and (min-width: 960px) {
+
+#left-options
+{
+	float: left;
+	position: relative;
+	width: 20%;
+}
+
+#link-blog
+{
+	float: left;
+	position: relative;
+	width: 60%;
+	
+}
+
+}
+
+#link-blog .link-to-user
+{
+	margin-bottom: 20px;
+}
+
+#link-blog .link-to-user a
+{
+	color: #003366;
+    font-weight: bold;
+}
+
+#load-more
+{
+	background-color: #e6e6e6;
+	width: 71px;
+	border-radius: 5px 5px 5px 5px;
+	padding: 3px;
+	cursor: pointer;
+	position: relative;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#link-follow
+{
+	background-color: #e6e6e6;
+	width: 58px;
+	border-radius: 5px 5px 5px 5px;
+	padding: 3px;
+	cursor: pointer;
+	position: relative;
+	margin: 0 auto;
+	text-align: center;
+}
+
+/*Link Blog--------------------------------------------------------------------------------*/

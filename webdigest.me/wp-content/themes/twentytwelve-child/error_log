@@ -1,0 +1,27 @@
+[11-Jul-2013 20:21:37] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 4
+[11-Jul-2013 20:22:54] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 4
+[11-Jul-2013 20:22:58] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 4
+[11-Jul-2013 20:22:58] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 4
+[11-Jul-2013 20:23:17] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 4
+[11-Jul-2013 20:23:17] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 4
+[11-Jul-2013 20:24:42] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 4
+[11-Jul-2013 20:24:43] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 4
+[11-Jul-2013 20:24:50] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 4
+[11-Jul-2013 20:24:53] PHP Warning:  require_once(php/database.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 10
+[11-Jul-2013 20:24:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'php/database.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 10
+[11-Jul-2013 20:25:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 4
+[11-Jul-2013 20:25:24] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 4
+[11-Jul-2013 20:25:52] PHP Parse error:  syntax error, unexpected T_ECHO in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 9
+[11-Jul-2013 20:25:53] PHP Parse error:  syntax error, unexpected T_ECHO in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 9
+[11-Jul-2013 20:26:05] PHP Parse error:  syntax error, unexpected T_ECHO in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 9
+[11-Jul-2013 20:26:06] PHP Parse error:  syntax error, unexpected T_ECHO in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 9
+[11-Jul-2013 20:26:07] PHP Parse error:  syntax error, unexpected T_ECHO in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 9
+[11-Jul-2013 20:26:08] PHP Parse error:  syntax error, unexpected T_ECHO in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 9
+[11-Jul-2013 20:26:14] PHP Parse error:  syntax error, unexpected T_ECHO in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 9
+[11-Jul-2013 20:26:23] PHP Parse error:  syntax error, unexpected T_ECHO in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 9
+[11-Jul-2013 20:26:24] PHP Parse error:  syntax error, unexpected T_ECHO in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 9
+[11-Jul-2013 20:26:25] PHP Parse error:  syntax error, unexpected T_ECHO in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/dbtest.php on line 9
+[11-Jul-2013 20:27:39] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/php/Database.php on line 54
+[11-Jul-2013 20:29:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/php/Database.php on line 56
+[11-Jul-2013 23:31:48] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/php/Database.php on line 128
+[12-Jul-2013 01:03:07] PHP Fatal error:  Call to undefined function  get_header() in /home/dbroadli/public_html/webdigest.me/wp-content/themes/twentytwelve-child/link-blog.php on line 2
