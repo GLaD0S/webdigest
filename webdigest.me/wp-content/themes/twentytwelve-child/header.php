@@ -53,7 +53,7 @@
 					echo "<div id='logo-as-text'>";
 			?>
 
-			<div id='logo-text'><p>Web Digest</p></div>
+			<div id='logo-text'><p>Web Diges</p></div>
 			<div id='logo-under-text'><p>Meaningful social discovery through friends</p></div>
 			</div>
 				
